@@ -29,5 +29,6 @@ public class HesapMakinesi {
                 System.out.println("Hatali secim.");
                 break;
         }
+        input.close();
     }
 }

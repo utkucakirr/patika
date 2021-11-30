@@ -30,5 +30,6 @@ public class Siralama {
                 System.out.println("s3<s2<s1");
             }
         }
+        input.close();
     }
 }

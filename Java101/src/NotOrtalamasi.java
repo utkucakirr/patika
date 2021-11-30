@@ -25,5 +25,6 @@ public class NotOrtalamasi {
         double ort=(mat+fizik+kimya+tr+tarih+muzik)/6;
         boolean kosul=ort>60;
         System.out.println(kosul?"Gecti":"Kaldi");
+        inp.close();
     }
 }

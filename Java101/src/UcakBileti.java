@@ -34,5 +34,6 @@ public class UcakBileti {
             }
             System.out.println("Toplam tutar: " + indirimliTutar);
         }
+        inp.close();
     }
 }

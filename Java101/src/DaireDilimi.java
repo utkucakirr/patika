@@ -12,5 +12,6 @@ public class DaireDilimi {
 
         alan=(pi*r*r*a)/360;
         System.out.println("Daire diliminin alani: " + alan);
+        inp.close();
     }
 }

@@ -20,5 +20,6 @@ public class Kombinasyon {
 
         double comb=f1/(f2*f3);
         System.out.println("Kombinasyon degeri: " +comb);
+        inp.close();
     }
 }

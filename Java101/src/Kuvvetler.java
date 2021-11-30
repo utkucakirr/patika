@@ -19,5 +19,6 @@ public class Kuvvetler {
             System.out.println(5 + "^" + sayac + " = " + z);
             sayac++;
         }
+        inp.close();
     }
 }

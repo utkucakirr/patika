@@ -34,7 +34,7 @@ public class EbobEkok {
         
         System.out.println("Ebob: " + ebob + " Ekok: " + ekok);
 
-        
+        input.close();
         
     }
 

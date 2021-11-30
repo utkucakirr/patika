@@ -13,5 +13,6 @@ public class BasamakToplami {
         }
 
         System.out.println("Girilen sayinin basamak degerlerinin toplami: "+toplam);
+        input.close();
     }
 }

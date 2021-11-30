@@ -10,5 +10,6 @@ public class HarmonikSeri {
             sonuc=sonuc+(1/i);
         }
         System.out.println("Sonuc= "+sonuc);
+        input.close();
     }
 }

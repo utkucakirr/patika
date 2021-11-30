@@ -12,5 +12,6 @@ public class VucutKitleIndeksi {
 
         indeks=kg/(boy*boy);
         System.out.println("Vucut kitle indeksiniz: " + indeks);
+        inp.close();
     }
 }

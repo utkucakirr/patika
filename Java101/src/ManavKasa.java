@@ -17,5 +17,6 @@ public class ManavKasa {
 
         toplam=armutf*armutkg+elmaf*elmakg+domatesf*domateskg+muzf*muzkg+patlicanf*patlicankg;
         System.out.println("Toplam tutar: "+toplam);
+        inp.close();
     }
 }

@@ -47,5 +47,6 @@ public class SinifiGecmeDurumu {
         } else{
             System.out.print("Kaldınız");
         }
+        input.close();
     }
 }

@@ -24,6 +24,7 @@ public class MinMaxDeger {
         }
 
         System.out.println("Min: " + min + " Max: " + max);
+        input.close();
     }
     
 }

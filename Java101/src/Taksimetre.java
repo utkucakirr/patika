@@ -10,5 +10,6 @@ public class Taksimetre {
         odenecek=kosul?total:min;
 
         System.out.println("Odenecek miktar:" + odenecek);
+        inp.close();
     }
 }

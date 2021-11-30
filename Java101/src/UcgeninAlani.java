@@ -18,6 +18,7 @@ public class UcgeninAlani {
         alan=Math.sqrt(u*(u-kenar1)*(u-kenar2)*(u-kenar3));
 
         System.out.println("Ucgenin alani: " +alan);
+        input.close();
 
     }
 }

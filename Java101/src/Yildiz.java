@@ -23,6 +23,7 @@ public class Yildiz {
                 System.out.print("*");
             }
             System.out.println();
+            input.close();
         }
     }
 }

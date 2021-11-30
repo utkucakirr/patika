@@ -13,5 +13,6 @@ public class Pratik16 {
             sonuc *= sayi;
         }
         System.out.println(sayi + "^" + kuvvet + ": " + sonuc);
+        input.close();
     }
 }

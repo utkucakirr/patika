@@ -19,5 +19,6 @@ public class MukemmelSayi {
         }else{
             System.out.println(sayi + " mukemmel sayi degildir.");
         }
+        input.close();
     }
 }

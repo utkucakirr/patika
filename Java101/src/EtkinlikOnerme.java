@@ -15,5 +15,6 @@ public class EtkinlikOnerme {
         }else if(sicaklik>=25){
             System.out.println("Yüzme");
         }
+        inp.close();
     }
 }

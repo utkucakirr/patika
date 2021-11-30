@@ -16,5 +16,6 @@ public class KDV {
 
         System.out.println("KDV tutari: " +kdvMiktar);
         System.out.println("KDV dahil fiyat: " +kdvliFiyat);
+        inp.close();
     }
 }

@@ -20,6 +20,7 @@ public class UceveDordeBolum {
             System.out.println(count);
             System.out.println("Ortalama= " + ortalama);
         }
+        inp.close();
 
 
     }

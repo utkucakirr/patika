@@ -80,5 +80,6 @@ public class Burc {
         } else if (ay == 12){
             System.out.println("Yay Burcu");
         }
+        input.close();
     }
 }

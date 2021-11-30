@@ -26,7 +26,9 @@ public class KullaniciGirisi {
             }else{
                 System.out.println("Islem iptal edildi");
             }
+            
         }
+        inp.close();
 
     }
 }
