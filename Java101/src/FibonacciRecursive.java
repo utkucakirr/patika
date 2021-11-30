@@ -13,6 +13,7 @@ public class FibonacciRecursive {
         int n=input.nextInt();
         int fibo=Fibonacci(n);
         System.out.print(fibo);
+        input.close();
     }
 
 

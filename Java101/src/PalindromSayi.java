@@ -19,5 +19,6 @@ public class PalindromSayi {
         System.out.print("n: ");
         int n=input.nextInt();
         IsPalindrome(n);
+        input.close();
     }
 }
