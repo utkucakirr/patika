@@ -21,5 +21,6 @@ public class Siralama2 {
             }
         }
         System.out.println(Arrays.toString(numbers));
+        input.close();
     }
 }
